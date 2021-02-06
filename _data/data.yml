@@ -8,19 +8,19 @@ sidebar:
     education: True # set to False if you want education in main section instead of in sidebar
 
     # Profile information
-    name: Santosh Killamsetty
+    name: Sahithi Valavala
     tagline: 
-    avatar: Profile.jpg   #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
+    avatar: profile.jpg   #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
-    email: Santoshkillamsetty10@gmail.com
-    phone: 9490929332
+    email: sahithivalavala@gmail.com
+    phone: 7386897799
     website:  #do not add http://
-    linkedin: santosh-killamsetty-900350145
-    github: KILLERKILLAM
-    gitlab: killamkiller
+    linkedin: sahithivalavala
+    github: sahi999
+    gitlab: 
     bitbucket:
-    twitter: '@Santoshkillams2'
+    twitter: '@sahi_2501'
     stack-overflow: # Number/Username, e.g. 123456/alandoe
     codewars:
     goodreads: # Number-Username, e.g. 123456-alandoe
@@ -33,7 +33,7 @@ sidebar:
         level: Professional
 
     interests:
-      - item: Foot ball
+      - item: Books
         link:
 
       - item: Travelling 
@@ -45,22 +45,22 @@ career-profile:
       A highly organized and hard-working individual looking for a responsible position to gain practical experience.
 education:
     - degree: Btech - Computer Science & Engineering
-      university: Gayatri vidya parishad college of engineering(A), Vizag
-      time: 2016 - 2020
+      university: Gayatri vidya parishad college of engineering for women, Vizag
+      time: 2018 - 2022
       details: |
-        CGPA - 8.0/10
+        CGPA - 7.3/10
         
     - degree: XII Senior Secondary
-      university: Sri Chaitanya Junior College, Vijayawada
-      time: 2014 - 2016
+      university: Sri Chaitanya Junior College
+      time: 2016 - 2018
       details: |
-        Percentage - 96.5%
+        Percentage - 84.3%
       
-    - degree: XI Secondary
-      university: Sri Chaitanya High School, Vizag
-      time: 2014 - 2016
+    - degree: X Secondary
+      university: Bhashyam Public School
+      time: 2015 - 2016
       details: |
-       CGPA - 9.70/10
+       CGPA - 9.50/10
     
       
 
