@@ -2,7 +2,7 @@
 # Be aware that even a small syntax error here can lead to failures in output.
 #
 
-sidebar:
+sidebar: 
     about: True # set to False or comment line if you want to remove the "how to use?" in the sidebar
     education: True # set to False if you want education in main section instead of in sidebar
 
@@ -47,7 +47,7 @@ sidebar:
 career-profile:
     title: Career Profile
     summary: |
-      A highly organized and hard-working individual looking for a responsible position to gain practical experience.
+       A highly organized and hard-working individual looking for a responsible position to gain practical experience.
 education:
     - degree: Btech - Computer Science & Engineering
       university: Gayatri vidya parishad college of engineering for women, Vizag
