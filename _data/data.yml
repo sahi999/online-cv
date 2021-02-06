@@ -1,26 +1,26 @@
 #
+#
 # Be aware that even a small syntax error here can lead to failures in output.
 #
 
-sidebar: 
+sidebar:
     about: True # set to False or comment line if you want to remove the "how to use?" in the sidebar
     education: True # set to False if you want education in main section instead of in sidebar
 
     # Profile information
-    name: Sahithi Valavala
+    name: Santosh Killamsetty
     tagline: 
-    avatar: profile.jpg  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
+    avatar: Profile.jpg   #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
-    email: sahithivalavala@gmail.com
-    phone: 7386897799
+    email: Santoshkillamsetty10@gmail.com
+    phone: 9490929332
     website:  #do not add http://
-    linkedin: sahithivalavala
-    github: sahi999
-    telegram: # add your nickname without '@' sign
-    gitlab:
+    linkedin: santosh-killamsetty-900350145
+    github: KILLERKILLAM
+    gitlab: killamkiller
     bitbucket:
-    twitter: '@sahi_2501'
+    twitter: '@Santoshkillams2'
     stack-overflow: # Number/Username, e.g. 123456/alandoe
     codewars:
     goodreads: # Number-Username, e.g. 123456-alandoe
@@ -32,148 +32,110 @@ sidebar:
       - idiom: English
         level: Professional
 
-      
-
     interests:
-      - item: Books
+      - item: Foot ball
         link:
 
-      - item: Travelling
-        link:
-
-      - item: Music
+      - item: Travelling 
         link:
 
 career-profile:
     title: Career Profile
     summary: |
-       A highly organized and hard-working individual looking for a responsible position to gain practical experience.
+      A highly organized and hard-working individual looking for a responsible position to gain practical experience.
 education:
     - degree: Btech - Computer Science & Engineering
-      university: Gayatri vidya parishad college of engineering for women, Vizag
-      time: 2018 - 2022
+      university: Gayatri vidya parishad college of engineering(A), Vizag
+      time: 2016 - 2020
       details: |
-        CGPA - 7.3/10
-          
-    - degree: XII Senior Secondary
-      university: Sri Chaitanya Junior College, Kakinada
-      time: 2016 - 2018
-      details: |
-        Percentage - 84.3%
+        CGPA - 8.0/10
         
-   - degree: X Secondary
-      university: Bhashyam Public School
-      time: 2015 - 2016
+    - degree: XII Senior Secondary
+      university: Sri Chaitanya Junior College, Vijayawada
+      time: 2014 - 2016
       details: |
-        CGPA - 9.5/10
-       
+        Percentage - 96.5%
+      
+    - degree: XI Secondary
+      university: Sri Chaitanya High School, Vizag
+      time: 2014 - 2016
+      details: |
+       CGPA - 9.70/10
+    
+      
+
 experiences:
-    - role: Lead Developer
-      time: 2015 - Present
-      company: Startup Hubs, San Francisco
+    - role: Game Developer
+      time: 2017 - 2018
+      company: Khadga Entertainment, Vizag
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem. Nulla consequat massa quis
-        enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
-        error sit voluptatem accusantium doloremque laudantium, totam rem
-        aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-        architecto beatae vitae dicta sunt explicabo.
-          - Bullet point
-          - Bullet point
-    - role: Senior Software Engineer
-      time: 2014 - 2015
-      company: Google, London
-      details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
-          - Bullet point
-          - Bullet point
-    - role: UI Developer
-      time: 2012 - 2014
-      company: Amazon, London
-      details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
-          - Bullet point
-          - Bullet point
+       During this internship I am involved in following tasks 
+          - Game Design
+          - Game Developement
+          - Game Testing
+          
+    - role: Deep Learning Trainee
+      time: May,2019 - Jun,2019
+      company: Quants Chain, Vizag
+      details: Image SuperResolution Project
+
+
 projects:
     title: Projects
-    intro: >
-      You can list your side projects or open source libraries in this
-      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
+    intro:
+
     assignments:
-      - title: Velocity
-        link: "#hook"
-        tagline: "A responsive website template designed to help startups promote, market and sell their products."
+      - title: VR EyeSight CheckUp
+        link: "github.com/KILLERKILLAM/VR_Eye_Sight_Check"
+        tagline: "Virtual reality stimulation for Eyesight check up.This application is used to check our eyesight, eliminating the need to go to the hospital using vr headset and mobile."
 
-      - title: DevStudio
-        link: "#"
-        tagline: "A responsive website template designed to help web developers/designers market their services."
+      - title: VoiceMail
+        link: "github.com/KILLERKILLAM/Voice-Based-Email-For-Blind-People"
+        tagline: "The application asks for mail recipients, subject, message; Receives input through user’s voice; Converts it into text and sends the mail."
 
-      - title: Tempo
-        link: "#"
-        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
+      - title: Book Of Everything
+        link: ""
+        tagline: "An augmented reality application for education. This application adds another dimension to paper. Imposes virtual content into the real world environment when it captures the image target."
 
-      - title: Atom
-        link: "#"
-        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
+      - title: Freak Shapes 
+        link: ""
+        tagline: "A sci-fi arcade game. This is an infinite gameplay in which difficulty increases with time. Enemies come from all sides and the player has to kill the boss enemies(King of all enemies) to level up. "
 
-      - title: Delta
-        link: "#"
-        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
+      - title: BOOO Way Back Home
+        link: 
+        tagline: "An audio controlled 2D platformer game. It has three chapters with three core mechanics respectively."
 
-publications:
-    title: Publications
-    intro: |
-      You can list your publications in this section. Lorem ipsum dolor sit
-      amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
-      bibendum fringilla a eu lectus.
+      - title: Image SuperResolution
+        link: 
+        tagline: "A convolutional neural network that is trained to convert a low resolution image to high resolution image."
+
+
+
     papers:
-      - title: The Art of Computer Programming
-        link: "#"
-        authors: Donald E. Knuth
-        conference: Addison-Wesley, 1968
+      - title: 
+        authors:
+        conference: 
 
-      - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
-        link: "#"
-        authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
-        conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
-
-      - title: A syntax directed compiler for Algol 60
-        link: "#"
-        authors: Edgar T. Irons
-        conference: "Comm. ACM 4 (1961), 51–55"
+      
 
 skills:
     title: Skills &amp; Proficiency
 
     toolset:
-      - name: Python & Django
+      - name: Python
         level: 98%
 
-      - name: Javascript & jQuery
-        level: 98%
-
-      - name: Angular
+      - name: Javascript
         level: 98%
 
       - name: HTML5 & CSS
         level: 95%
 
-      - name: Ruby on Rails
+      - name: Deep learning 
         level: 85%
 
-      
+      - name: Machine Learning 
+        level: 60%
 
 footer: >
-    Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Sahithi Valavala</a>
+    Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Santosh Killamsetty</a>
